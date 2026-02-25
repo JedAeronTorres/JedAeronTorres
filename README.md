@@ -4,7 +4,7 @@
 
 <h1 align="center">🚀 Tech Stack</h1>
 
-<p align="center>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html" style="margin-right:15px;" />
   <img src="https://skillicons.dev/icons?i=css" style="margin-right:15px;" />
   <img src="https://skillicons.dev/icons?i=js" style="margin-right:15px;" />
