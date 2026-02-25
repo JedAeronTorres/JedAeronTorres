@@ -2,7 +2,7 @@
 <h3 align="center">BSIT Student | Future Web Developer</h3>
 
 
-## 🚀 Tech Stack
+<h1 align="center">🚀 Tech Stack</h1>
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" style="margin-right:15px;" />
