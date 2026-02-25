@@ -3,13 +3,12 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🛠 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=php" style="margin-right:15px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
----
-
-## 📫 Connect with Me
-- 🌍 Philippines
-- 💻 Currently learning Web Systems
