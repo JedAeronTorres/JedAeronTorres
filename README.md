@@ -1,13 +1,15 @@
-## Hi Everyone!
-
 <h1 align="center">Hi 👋, I'm Jedaerontorres</h1>
-<h3 align="center">BSIT Student | Web Developer in Progress</h3>
+<h3 align="center">BSIT Student | Future Web Developer</h3>
+
+---
 
 ## 🚀 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,vscode" />
+</p>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 📫 Connect with Me
+- 🌍 Philippines
+- 💻 Currently learning Web Systems
